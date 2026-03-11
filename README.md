@@ -1,7 +1,7 @@
 # Configure Simply
 
 A React single-page application built with Vite, TypeScript, shadcn/ui, and Tailwind CSS.
-The production image is served by Nginx and published to the GitHub Container Registry (GHCR).
+The production image is served by Nginx and published to the JFrog Fly registry.
 
 ## Getting Started
 
